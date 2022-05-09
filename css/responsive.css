@@ -6,4 +6,11 @@
     .logo{
         margin: 10px;
     }
+    .slider{
+        height: 20vh;
+    }
+    .img2{
+        height: 145px;
+        width: 180px;
+    }
 }
